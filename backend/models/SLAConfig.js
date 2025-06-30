@@ -1,5 +1,3 @@
-// models/SLAConfig.js
-
 module.exports = (sequelize, DataTypes) => {
   const SLAConfig = sequelize.define('SLAConfig', {
     plan: {
