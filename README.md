@@ -7,7 +7,7 @@ Sistema de gerenciamento de chamados (tickets) com backend Node.js (Express + Se
 ##  Tecnologias Utilizadas
 
 - **Backend:** Node.js, Express, Sequelize, MySQL
-- **Frontend:** React
+- **Frontend:** React e Tailwind
 - **Autenticação:** JWT
 
 
